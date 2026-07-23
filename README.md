@@ -2,9 +2,9 @@
 
 > ⚠️ **Notice / 声明**
 >
-> This repository is a **sanitized** portfolio version — all secrets, real personal data, and confidential business logic have been removed or replaced with program-generated synthetic data. **Some proprietary/commercial code is not open-sourced.** Provided **for learning and exchange only — commercial use is NOT permitted.** Pending the author's review before any public release.
+> This repository is a **sanitized** portfolio version — all secrets, real personal data, and confidential business logic have been removed or replaced with program-generated synthetic data. **Some code is not open-sourced.** Provided **for learning and exchange only — commercial use is NOT permitted.** Pending the author's review before any public release.
 >
-> 本仓库为**已脱敏**的作品集版本 —— 所有密钥、真实个人数据与商业机密逻辑均已移除或用程序生成的假数据替换。**部分商业代码未公开。仅供学习与交流,不可用于商用。** 待作者审核后再行公开。
+> 本仓库为**已脱敏**的作品集版本 —— 所有密钥、真实个人数据与商业机密逻辑均已移除或用程序生成的假数据替换。**部分代码未公开。仅供学习与交流,不可用于商用。** 待作者审核后再行公开。
 
 
 **English** | [中文](#中文)
